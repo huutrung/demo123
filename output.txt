@@ -1,7 +1,8 @@
 Microsoft Windows [Version 10.0.22631.2861]
 (c) Microsoft Corporation. All rights reserved.
 
-E:\Training\IPMAC-AWP\Day1\Malware-Bypass-Windefender\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0>cmd /k dir C:/
+E:\Training\IPMAC-AWP\Day1\Malware-Bypass-Windefender\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0>cmd /k whoami
+pptmd-nguyenhuu\batman
 
 E:\Training\IPMAC-AWP\Day1\Malware-Bypass-Windefender\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0>
 E:\Training\IPMAC-AWP\Day1\Malware-Bypass-Windefender\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0>
